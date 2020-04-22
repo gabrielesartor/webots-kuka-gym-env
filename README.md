@@ -1,5 +1,6 @@
-Please before using this environment install it using the following command:
+This package contains a Gym environment which uses a Youbot in a simulation run with Webots.
 
+webots_kuka_gym contains the Gym environment which can be installed running the following command:
 pip install -e .
 
 The folder "webots_world" contains an example of environment in which there is a Youbot with other objects.
